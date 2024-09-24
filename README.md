@@ -4,7 +4,7 @@
 This repository contains the results and deliverables of the Google Advanced Data Analytics course. The projects demonstrate various skills in data analysis, including data cleaning, exploratory data analysis (EDA), regression modeling, classification, A/B testing, and more.
 
 ### Project Structure
-1. **[Project 1: Project Proposal]([(https://github.com/Vital-Ahishakiye/Google-Advanced-Data-Analytics-Projects-/tree/main/Project-1-Project%20Proposal)](https://github.com/Vital-Ahishakiye/Google-Advanced-Data-Analytics-Projects-/tree/main/Project-1-Project%20Proposal))**
+1. **[Project 1: Project Proposal](https://github.com/Vital-Ahishakiye/Google-Advanced-Data-Analytics-Projects-/tree/main/Project-1-Project%20Proposal)**
    - Develop a project proposal for analyzing TLC taxi fare data.
    
 2. **[Project 2: Data Cleaning](./Project-2-Data-Cleaning/README.md)**
