@@ -16,11 +16,6 @@ Automatidata is consulting for the New York City Taxi and Limousine Commission (
 - The story, all names, characters, and incidents portrayed in this project are fictitious. No identification with actual persons (living or deceased) is intended or should be inferred.
 - The data shared in this project has been altered for pedagogical purposes and may not be indicative of actual NYC taxi cab rider behavior.
 
-## Course 2: Getting Started with Python
-
-### Task:
-The goal of this project is to build a dataframe for the TLC data. After the dataframe is complete, the data will be organized for exploratory data analysis, followed by reporting progress and insights to the team.
-
 ## Data Dictionary
 
 | Column Name            | Description                                                                 |
@@ -47,10 +42,6 @@ The goal of this project is to build a dataframe for the TLC data. After the dat
 | Tolls_amount            | Total amount of all tolls paid in the trip.                                 |
 | Total_amount            | The total amount charged to passengers, excluding cash tips.                |
 
-## Next Steps
-1. Perform exploratory data analysis (EDA) to identify trends and outliers in the dataset.
-2. Clean the dataset to handle any missing or inconsistent data points.
-3. Build a regression model to estimate taxi fares based on various features in the dataset.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
