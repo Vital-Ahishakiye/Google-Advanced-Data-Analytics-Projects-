@@ -42,9 +42,6 @@ Automatidata is consulting for the New York City Taxi and Limousine Commission (
 | Tolls_amount            | Total amount of all tolls paid in the trip.                                 |
 | Total_amount            | The total amount charged to passengers, excluding cash tips.                |
 
+## Next Steps
+Clean the dataset to handle any missing or inconsistent data points Using python.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-- Special thanks to Google for providing the dataset and the learning materials for this project.
