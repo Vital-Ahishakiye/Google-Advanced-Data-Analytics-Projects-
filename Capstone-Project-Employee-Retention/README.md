@@ -1,7 +1,9 @@
 # Capstone Project: Employee Retention Prediction
 
-## Overview
-This capstone project focuses on building and evaluating machine learning models to predict employee retention at **Salifort Motors**. The goal is to help the company understand the factors influencing employee churn and provide insights into how they can improve retention rates.
+## Scenario
+At Salifort Motors, employee turnover—both voluntary resignations and terminations—has become a growing concern. The company invests heavily in recruiting, training, and upskilling employees, and high turnover incurs significant financial costs. The leadership team wants to better understand why employees are leaving and develop strategies to improve retention.
+
+To address this, the Human Resources department conducted a survey capturing various factors that might influence employee turnover, such as job title, department, number of projects, average monthly hours, and more. Your task, as the data analysis specialist, is to analyze this data and build a predictive model that forecasts whether an employee will leave the company.
 
 ## Objective
 The objectives of this project are to:
